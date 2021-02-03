@@ -18,17 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Tutoriel Teams"
+title: Tutoriel Teams
 email: bgerondeau@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Bienvenue sur le site du tutoriel pour l'utilisation de Teams
-  dans le cadre de l'APF Indre-et-Loire
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Bienvenue sur le site du tutoriel Teams pour l'APF 37 
+baseurl: "/TutorielTeams" # the subpath of your site, e.g. /blog
+url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  BaptisteGerondeau
 
 # Build settings
-theme: midnight
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -40,17 +39,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-include:
-   - _posts
-
- exclude:
-   - .sass-cache/
-   - .jekyll-cache/
-   - gemfiles/
-   - Gemfile
-   - Gemfile.lock
-   - node_modules/
-   - vendor/bundle/
-   - vendor/cache/
-   - vendor/gems/
-   - vendor/ruby/
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
