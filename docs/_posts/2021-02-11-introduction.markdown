@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tutoriel Teams - APF 37: Introduction"
-date:   2021-02-09 13:38:01 +0100
+date:   2021-02-11 00:38:01 +0100
 categories: tutoriel introduction
 ---
 # Introduction
@@ -34,11 +34,3 @@ Une fenêtre s’affiche signalant l’installation du logiciel.
 Puis une fenêtre demandant l’adresse de connexion, puis le mot de passe.
 Ensuite, la fenêtre principale de Teams se lance. Au premier lancement on doit sélectionner « l’équipe » à laquelle on veut se connecter.
 En cas d’absence d’ « équipe » à rejoindre **il faut demander aux organisateurs à être ajouté** : *soit en fournissant son adresse de connexion soit en cliquant sur un lien fourni par les organisateurs.*
-
-This, is a video
-
-<figure class="video_container" align="center">
-  <video align="center" controls="true" allowfullscreen="true" style="display:block;position: relative;left: 50%;transform: translateX(-50%);">
-    <source src="{{ '001_tchat_groupes.mkv' | relative_url }}" type="video/mp4">
-  </video>
-</figure>
