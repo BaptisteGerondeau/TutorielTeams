@@ -4,6 +4,8 @@ title:  "Tutoriel Teams - APF 37: I - Rejoindre une Réunion"
 date:   2021-02-10 13:38:01 +0100
 categories: tutoriel partie1
 ---
+{% include navigation.html %}
+
 Pour rejoindre une réunion, il suffit de sélectionner l’onglet Réunions dans la barre de navigation, puis de sélectionner le bouton “Rejoindre” dans la case du calendrier correspondante.
 Il est également possible de rejoindre une réunion directement en **cliquant sur le lien d’invitation fourni par l’organisateur**.
 

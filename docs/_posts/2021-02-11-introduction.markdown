@@ -4,6 +4,7 @@ title:  "Tutoriel Teams - APF 37: Introduction"
 date:   2021-02-11 00:38:01 +0100
 categories: tutoriel introduction
 ---
+{% include navigation.html %}
 # Introduction
 
 Microsoft Teams est une application gratuite qui permet d’organiser une équipe, via des conversations de groupe, des conversations individuelles et des réunions audio-vidéo.
