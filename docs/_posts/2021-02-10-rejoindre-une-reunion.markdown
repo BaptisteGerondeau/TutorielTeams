@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Tutoriel Teams - APF 37: I - Rejoindre une Réunion"
+title:  "Tutoriel Teams - APF 37: Rejoindre une Réunion"
 date:   2021-02-10 13:38:01 +0100
-categories: tutoriel partie1
+categories: tutoriel
 ---
 {% include navigation.html %}
 

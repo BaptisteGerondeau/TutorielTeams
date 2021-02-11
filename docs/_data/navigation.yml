@@ -1,12 +1,23 @@
 ---
-title: 'Index'
+title: 'Sommaire'
 pages:
         - title: Sommaire
           path: '/'
 
         - title: Introduction
-          path: tutoriel/introduction/2021/02/11/introduction.html
+          path: tutoriel/2021/02/11/introduction.html
 
         - title: Rejoindre une réunion
-          path: tutoriel/partie1/2021/02/10/rejoindre-une-reunion.html
+          path: tutoriel/2021/02/10/rejoindre-une-reunion.html
+
+        - title: Navigation, equipes et canaux
+          path: tutoriel/2021/02/11/navigation-et-equipes.html 
+
+        - title: Creation d'equipes et planification de reunions
+          path: tutoriel/2021/02/11/creation-planification.html 
+
+        - title: Paramètres
+          path: tutoriel/2021/02/11/parametres.html
+
+
 ---
