@@ -1,5 +1,8 @@
 <figure class="video_container" align="center">
   <video align="center" controls="true" allowfullscreen="true" width="650" style="display:block;position: relative;left: 50%;transform: translateX(-50%); width: 100%; height: auto; padding: 50px;">
     <source src="{{ include.video | relative_url }}" type="video/mp4">
+    <source src="{{ include.videoW | relative_url }}" type="video/webm">
+    <source src="{{ include.videoO | relative_url }}" type="video/ogg">
+    Oops, votre navigateur ne supporte pas les videos :(
   </video>
 </figure>

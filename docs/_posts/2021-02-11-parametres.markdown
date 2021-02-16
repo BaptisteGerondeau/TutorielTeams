@@ -6,4 +6,4 @@ categories: tutoriel
 ---
 {% include navigation.html %}
 
-{% include formatted_video.html video="008_parametres.mkv" %}
+{% include formatted_video.html video="assets/video/008_parametres.mp4" videoW="assets/video/008_parametres.webm" videoO="assets/video/008_parametres.ogg" %}

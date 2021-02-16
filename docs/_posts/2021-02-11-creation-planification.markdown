@@ -12,7 +12,7 @@ Pour créer une nouvelle équipe, il faut aller dans l'onglet "Équipe" de la ba
 Pour inviter des personnes à une équipe on sélectionne le menu "Inviter des contacts" au dessus du menu "Rejoindre ou ajouter une équipe".
 Pour créer un nouveau canal de discussion dans une équipe on doit cliquer sur les 3 points à droite de l'équipe à laquelle on veut rajouter le canal et sélectionner "Ajouter un canal".
 
-{% include formatted_video.html video="006_creer_une_equipe.mkv" %} 
+{% include formatted_video.html video="assets/video/006_creer_une_equipe.mp4" videoW="assets/video/006_creer_une_equipe.webm" videoO="assets/video/006_creer_une_equipe.ogg" %} 
 
 # B - Réunions
 
@@ -26,4 +26,4 @@ ASTUCE : Pour retrouver le lien à copier pour inviter des gens, il suffit de cl
 
 Pour planifier une réunion il suffit d’aller dans l’onglet Réunions et de cliquer sur le bouton violet “Planifier une réunion”. On peut ainsi entrer un nom à donner à la réunion, une date et un horaire.
 
-{% include formatted_video.html video="007_creer_une_reunion.mkv" %} 
+{% include formatted_video.html video="assets/video/007_creer_une_reunion.mp4" videoW="assets/video/007_creer_une_reunion.webm" videoO="assets/video/007_creer_une_reunion.ogg" %} 

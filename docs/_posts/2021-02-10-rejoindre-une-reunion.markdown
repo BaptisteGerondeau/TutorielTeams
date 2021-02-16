@@ -9,12 +9,12 @@ categories: tutoriel
 Pour rejoindre une réunion, il suffit de sélectionner l’onglet Réunions dans la barre de navigation, puis de sélectionner le bouton “Rejoindre” dans la case du calendrier correspondante.
 Il est également possible de rejoindre une réunion directement en **cliquant sur le lien d’invitation fourni par l’organisateur**.
 
-{% include formatted_video.html video="003_rejoindre_une_reunion.mkv" %}
+{% include formatted_video.html video="assets/video/003_rejoindre_une_reunion.mp4" videoW="assets/video/003_rejoindre_une_reunion.webm" videoO="assets/video/003_rejoindre_une_reunion.ogg" %}
 
 Une fois cliqué, le lien ou le bouton rejoindre, une fenêtre s’affiche permettant de se connecter à la réunion. **Là on sélectionne “Son de l’ordinateur” pour que Teams utilise le microphone de l’ordinateur** (*qu’il soit intégré comme dans un portable, ou sur un casque, **Teams prendra ce que Windows considère comme “Par défaut”***) et la sortie audio de l’ordinateur (périphérique par défaut, comme le micro).
 **On peut également sélectionner le bouton près de l’icône caméra pour allumer ou éteindre la caméra**.
 
-{% include formatted_video.html video="004_en_appel_audio.mkv" %}
+{% include formatted_video.html video="assets/video/004_en_appel_audio.mp4" videoW="assets/video/004_en_appel_audio.webm" videoO="assets/video/004_en_appel_audio.ogg" %}
 
 **ASTUCE** : Lorsqu’on a une connexion internet pas très performante, il vaut mieux ne pas allumer sa webcam. Cela permettra au signal audio d’être de meilleure qualité et plus stable (donc moins de coupures et de voix robot !)
 

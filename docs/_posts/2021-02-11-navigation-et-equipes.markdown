@@ -24,7 +24,7 @@ Dans ce message, pour mentionner une personne explicitement et s'assurer qu'elle
 Pour répondre à un message on doit écrire dans le champ "Réponse" en dessous du texte du message.
 On peut également, en laissant le curseur de la souris sur le message auquel on veut répondre, accéder à un menu pour y mettre un emoji en réaction.
 
-{% include formatted_video.html video="001_tchat_groupes.mkv" %} 
+{% include formatted_video.html video="assets/video/001_tchat_groupes.mp4" videoW="assets/video/001_tchat_groupes.webm" videoO="assets/video/001_tchat_groupes.ogg" %} 
 
 # C - Conversation perso
 
@@ -32,4 +32,4 @@ Pour avoir une conversation en "tête à tête" on sélectionne l'onglet Convers
 Là Teams nous demande de rentrer les noms des gens avec lesquels nous souhaitons discuter. À noter qu'on peut très bien entrer plusieurs noms et faire une conversation de groupe.
 Ensuite la conversation s'effectue de la même manière que les conversations d'équipe.
 
-{% include formatted_video.html video="002_conversation.mkv" %} 
+{% include formatted_video.html video="assets/video/002_conversation.mp4" videoW="assets/video/002_conversation.webm" videoO="assets/video/002_conversation.ogg" %} 
